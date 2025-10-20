@@ -9,4 +9,4 @@ jobs:
       -  run: mkdir testmachine
       -  run: uname -a > testmachine/output.txt
       -  run: cat testmachine/output.txt
-      -  run: ls - alhR
+      -  run: ls -alhR
